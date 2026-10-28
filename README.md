@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Amaraiah11">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Developer+%26+Full-Stack+Engineer;AI+%26+Deep+Learning+Practitioner;Data+Analytics+%26+Power+BI+Specialist;BCA+%40+Alliance+University%2C+Bangalore" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <b>Driven Software Developer and Applied Data Analytics Practitioner pursuing Bachelor of Computer Applications (BCA) at Alliance University, Bangalore.</b><br/>
   Specializing in Full-Stack Engineering, Generative AI & Deep Learning, Business Intelligence Modeling, and Object-Oriented Systems Architecture.
 </p>
@@ -39,6 +45,7 @@
 <a id="table-of-contents"></a>
 ## 📌 Table of Contents
 
+- [📊 GitHub Analytics & Developer Activity](#github-analytics--developer-activity)
 - [📖 Executive Summary & Overview](#executive-summary--overview)
 - [🎯 Key Features & Capabilities](#key-features--capabilities)
 - [🏗️ System Architecture & Pipeline](#system-architecture--pipeline)
@@ -50,6 +57,21 @@
 - [🔮 Future Improvements & Roadmap](#future-improvements--roadmap)
 - [🤝 Contributing Guidelines](#contributing-guidelines)
 - [👨‍💻 Author & Contributions](#author--contributions)
+
+---
+
+<a id="github-analytics--developer-activity"></a>
+## 📊 GitHub Analytics & Developer Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amaraiah11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Amaraiah's GitHub Stats" height="175" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Amaraiah11&theme=tokyonight&hide_border=true" alt="Amaraiah's GitHub Streak" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaraiah11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
 ---
 
@@ -159,14 +181,16 @@ flowchart TD
 <a id="flagship-projects-showcase"></a>
 ## 🌟 Flagship Projects Showcase
 
-| Project | Primary Domain | Stack | Key Innovation | Repository |
-| :--- | :--- | :--- | :--- | :---: |
-| **Coffee Shop Sales Analytics** | Business Intelligence | Power BI, MySQL, Excel | End-to-end retail sales pipeline with temporal footfall analytics and DAX KPIs | [Inspect](https://github.com/Amaraiah11/Amaraiah_PowerBI_Project) |
-| **Generative vs. Discriminative Lab** | Generative AI | Streamlit, PyTorch, CNN | Live interactive lab contrasting CNN image classification with real-time digit synthesis | [Inspect](https://github.com/Amaraiah11/Generative_AI-TEST) |
-| **Local GitHub Code Explainer** | Developer Tools / LLM | Streamlit, GitPython, LLM | Programmatically clones, filters ASTs, and generates architectural code explanations | [Inspect](https://github.com/Amaraiah11/github-project) |
-| **SMS Spam Detection Engine** | NLP & Machine Learning | Python, NLTK, Scikit-learn | Multi-model text classification with TF-IDF vectorization and Naive Bayes / SVM benchmarking | [Inspect](https://github.com/Amaraiah11/SMS-Spam-Detection) |
-| **Smart Irrigation System** | Embedded Systems / IoT | Microcontroller, C++, Sensors | Automated closed-loop soil moisture monitoring with hysteresis relay pump actuation | [Inspect](https://github.com/Amaraiah11/smart-irrigation-system) |
-| **Enterprise Guitar Inventory** | Software Engineering (OOP) | Java (JDK 17+), OOP | Extensible GoF specification pattern decoupling catalog search criteria from inventory state | [Inspect](https://github.com/Amaraiah11/Java-Project) |
+| Project | Domain | Tech Stack | Status | Repository |
+| :--- | :--- | :--- | :---: | :---: |
+| **[Coffee Shop Sales BI Analytics](https://github.com/Amaraiah11/Amaraiah_PowerBI_Project)** | Business Intelligence & Analytics | `Power BI` `MySQL` `DAX` `ETL` | ![Ready](https://img.shields.io/badge/Production-Ready-2563EB?style=flat-square) | [Explore Repository ↗](https://github.com/Amaraiah11/Amaraiah_PowerBI_Project) |
+| **[Generative vs. Discriminative Lab](https://github.com/Amaraiah11/Generative_AI-TEST)** | Generative AI & Deep Learning | `Python` `Streamlit` `PyTorch` `CNN` | ![Verified](https://img.shields.io/badge/Live_App-Verified-success?style=flat-square) | [Explore Repository ↗](https://github.com/Amaraiah11/Generative_AI-TEST) |
+| **[Local GitHub Code Explainer](https://github.com/Amaraiah11/github-project)** | Developer Tools & AST Parsing | `Python` `Streamlit` `AST` `GitPython` | ![Active](https://img.shields.io/badge/Tool-Active-blueviolet?style=flat-square) | [Explore Repository ↗](https://github.com/Amaraiah11/github-project) |
+| **[SMS Spam NLP Classifier](https://github.com/Amaraiah11/SMS-Spam-Detection)** | Natural Language Processing | `Scikit-Learn` `TF-IDF` `Naive Bayes` | ![ML](https://img.shields.io/badge/ML-Validated-0EA5E9?style=flat-square) | [Explore Repository ↗](https://github.com/Amaraiah11/SMS-Spam-Detection) |
+| **[Mobile Sales In India Analysis](https://github.com/Amaraiah11/MOBILE-SALES-IN-INDIA-ANALYSIS)** | Data Warehousing & Market BI | `Power BI` `Star Schema` `EDA` | ![BI](https://img.shields.io/badge/Enterprise-BI-orange?style=flat-square) | [Explore Repository ↗](https://github.com/Amaraiah11/MOBILE-SALES-IN-INDIA-ANALYSIS) |
+| **[Smart Automated Irrigation System](https://github.com/Amaraiah11/smart-irrigation-system)** | Embedded Systems & IoT | `C++` `IoT` `Sensors` `Automation` | ![Hardware](https://img.shields.io/badge/Hardware-Designed-green?style=flat-square) | [Explore Repository ↗](https://github.com/Amaraiah11/smart-irrigation-system) |
+| **[Enterprise Guitar Inventory](https://github.com/Amaraiah11/Java-Project)** | Systems Software Architecture | `Java 17` `OOP` `GoF Patterns` | ![OOP](https://img.shields.io/badge/OOP-SOLID-38BDF8?style=flat-square) | [Explore Repository ↗](https://github.com/Amaraiah11/Java-Project) |
+| **[Interactive Web Portfolio](https://github.com/Amaraiah11/Portfolio)** | Frontend & Full-Stack Engineering | `HTML5` `SCSS` `Responsive UI` | ![Portfolio](https://img.shields.io/badge/Live-Showcase-FF5722?style=flat-square) | [Explore Repository ↗](https://github.com/Amaraiah11/Portfolio) |
 
 ---
 
@@ -174,10 +198,10 @@ flowchart TD
 ## ⚙️ Reproducible Quickstart & Setup
 
 ### Prerequisites
-- **Git:** Version 2.30+ installed (`git --version`)
-- **Python:** Version 3.10+ installed (`python --version`)
-- **Java:** JDK 17+ installed (`java -version`)
-- **Power BI Desktop:** Required for viewing `.pbix` analytics files
+- Python 3.11+ installed with `pip`
+- Java Development Kit (JDK 17 LTS or newer)
+- Git 2.30+
+- Microsoft Power BI Desktop (for `.pbix` analytics files)
 
 ### 1. Clone This Flagship Profile Repository
 ```bash
@@ -211,8 +235,9 @@ streamlit run app.py
 
 ```text
 Amaraiah11/
-├── README.md                  # Comprehensive flagship documentation and portfolio roadmap
-└── .git/                      # Git version control repository metadata
+├── README.md                 # Comprehensive flagship documentation and portfolio roadmap
+├── LICENSE                   # Official MIT Open Source License
+└── .git/                     # Git version control repository metadata
 ```
 
 ---
@@ -224,6 +249,7 @@ Every repository across this GitHub profile undergoes continuous verification:
 
 - **Source Code Verification:** All Python scripts, notebooks, and Java classes compile and run cleanly with standard runtimes.
 - **Dependency Hygiene:** Requirements files (`requirements.txt`) specify validated packages to eliminate dependency resolution errors.
+- **Open-Source Licensing:** Standard MIT license applied across repositories ensuring transparent code reuse.
 - **Documentation Link Check:** All internal anchor links, external profile URLs, and badge endpoints are actively maintained.
 
 ---
@@ -272,7 +298,7 @@ This portfolio and its underlying codebases are developed and maintained by:
 - 🌐 **GitHub Profile:** [@Amaraiah11](https://github.com/Amaraiah11)
 - 💼 **LinkedIn Profile:** [Amaraiah C](https://www.linkedin.com/in/amaraiah-c/)
 - 📧 **Institutional Email:** `camaraiahBCA24@ced.alliance.edu.in`
-- 💻 **Personal Portfolio:** [Visit Portfolio](https://github.com/Amaraiah11/Portfolio)
+- 🖥️ **Personal Portfolio:** [Visit Portfolio](https://github.com/Amaraiah11/Portfolio)
 
 ---
 
