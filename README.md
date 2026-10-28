@@ -1,7 +1,7 @@
 # 👨‍💻 Amaraiah C — Software Developer & AI / Data Analytics Practitioner
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,2563EB,38BDF8&height=220&section=header&text=AMARAIAH%20C&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Analytics%20Engineer%20%7C%20Alliance%20University&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Amaraiah C Executive Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&customColorList=0F172A,2563EB,38BDF8&height=220&section=header&text=AMARAIAH%20C&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Analytics%20Engineer%20%7C%20Alliance%20University&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="AMARAIAH C Banner" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Data%20Analytics-Power%20BI%20%7C%20MySQL%20%7C%20EDA-0EA5E9?style=flat-square" alt="Analytics" />
   <img src="https://img.shields.io/badge/Core%20Language-Python%20%7C%20Java%20%7C%20JavaScript-38BDF8?style=flat-square" alt="Languages" />
   <img src="https://img.shields.io/badge/Repo%20Status-Actively%20Building%20%26%20Maintaining-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/github/stars/Amaraiah11/Amaraiah-C?style=flat-square&color=gold" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/Amaraiah11/Amaraiah11?style=flat-square&color=gold" alt="Stars" />
 </p>
 
 <p align="center">
@@ -181,8 +181,8 @@ flowchart TD
 
 ### 1. Clone This Flagship Profile Repository
 ```bash
-git clone https://github.com/Amaraiah11/Amaraiah-C.git
-cd Amaraiah-C
+git clone https://github.com/Amaraiah11/Amaraiah11.git
+cd Amaraiah11
 ```
 
 ### 2. Explore Key Specialized Repositories
@@ -210,7 +210,7 @@ streamlit run app.py
 ## 📁 Project Directory Layout
 
 ```text
-Amaraiah-C/
+Amaraiah11/
 ├── README.md                  # Comprehensive flagship documentation and portfolio roadmap
 └── .git/                      # Git version control repository metadata
 ```
@@ -281,5 +281,5 @@ This portfolio and its underlying codebases are developed and maintained by:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,2563EB,38BDF8&height=100&section=footer" width="100%" alt="Amaraiah C Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&customColorList=0F172A,2563EB,38BDF8&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
