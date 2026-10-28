@@ -1,7 +1,7 @@
 # 👨‍💻 Amaraiah C — Software Developer & AI / Data Analytics Practitioner
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&customColorList=0F172A,2563EB,38BDF8&height=220&section=header&text=AMARAIAH%20C&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Analytics%20Engineer%20%7C%20Alliance%20University&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="AMARAIAH C Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&customColorList=0F172A,2563EB,38BDF8&height=220&section=header&text=AMARAIAH%20C&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20and%20Data%20Analytics%20Engineer%20%7C%20Alliance%20University&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="AMARAIAH C Banner" />
 </p>
 
 <p align="center">
